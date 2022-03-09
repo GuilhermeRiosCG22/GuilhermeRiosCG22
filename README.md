@@ -1,0 +1,5 @@
+- 👋 Olá! Eu sou @GuilhermeRiosCG22
+- 👀 Estou interessado em projetar e desenvolver jogos
+- 🌱 Atualmente estou aprendendo Python e JavaScript
+- 💞️ Estou colaborando em projetos de jogos em grupo
+- 📫 guilhermerios.cg22@gmail.com
